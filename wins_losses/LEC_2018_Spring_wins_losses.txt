@@ -1,0 +1,115 @@
+G2 Esports | Misfits
+Vitality | H2K
+Giants Gaming | Unicorns of Love
+Schalke 04 | Roccat
+Fnatic | Splyce
+Vitality | Giants Gaming
+Splyce | Unicorns of Love
+H2K | Fnatic
+Roccat | G2 Esports
+Misfits | Schalke 04
+Giants Gaming | G2 Esports
+Roccat | Splyce
+Misfits | H2K
+Vitality | Fnatic
+Schalke 04 | Unicorns of Love
+Giants Gaming | H2K
+Roccat | Unicorns of Love
+Misfits | Vitality
+Splyce | Schalke 04
+Fnatic | G2 Esports
+Unicorns of Love | H2K
+Giants Gaming | Roccat
+Vitality | Schalke 04
+G2 Esports | Splyce
+Misfits | Fnatic
+Vitality | Unicorns of Love
+Schalke 04 | Giants Gaming
+Fnatic | Roccat
+G2 Esports | H2K
+Splyce | Misfits
+Splyce | H2K
+Vitality | Roccat
+Giants Gaming | Misfits
+Fnatic | Unicorns of Love
+G2 Esports | Schalke 04
+Vitality | Splyce
+Schalke 04 | H2K
+Roccat | Misfits
+Fnatic | Giants Gaming
+G2 Esports | Unicorns of Love
+Splyce | Giants Gaming
+H2K | Roccat
+Misfits | Unicorns of Love
+G2 Esports | Vitality
+Fnatic | Schalke 04
+Unicorns of Love | Giants Gaming
+H2K | Vitality
+Roccat | Schalke 04
+G2 Esports | Misfits
+Fnatic | Splyce
+Unicorns of Love | Splyce
+G2 Esports | Roccat
+Fnatic | H2K
+Giants Gaming | Vitality
+Schalke 04 | Misfits
+Unicorns of Love | Roccat
+H2K | Giants Gaming
+Splyce | Schalke 04
+Fnatic | G2 Esports
+Misfits | Vitality
+Roccat | Giants Gaming
+Unicorns of Love | H2K
+Splyce | G2 Esports
+Vitality | Schalke 04
+Misfits | Fnatic
+Splyce | Roccat
+Unicorns of Love | Schalke 04
+H2K | Misfits
+Fnatic | Vitality
+G2 Esports | Giants Gaming
+Splyce | Vitality
+Vitality | Unicorns of Love
+Schalke 04 | Giants Gaming
+Splyce | Misfits
+H2K | G2 Esports
+Fnatic | Roccat
+Giants Gaming | Misfits
+Splyce | H2K
+Roccat | Vitality
+Fnatic | Unicorns of Love
+Schalke 04 | G2 Esports
+H2K | Schalke 04
+Roccat | Misfits
+Vitality | Splyce
+Fnatic | Giants Gaming
+G2 Esports | Unicorns of Love
+Splyce | Giants Gaming
+H2K | Roccat
+Misfits | Unicorns of Love
+G2 Esports | Vitality
+Fnatic | Schalke 04
+G2 Esports | Splyce
+Splyce | Roccat
+Splyce | Roccat
+Splyce | Roccat
+Vitality | H2K
+H2K | Vitality
+Vitality | H2K
+H2K | Vitality
+Vitality | H2K
+Splyce | G2 Esports
+G2 Esports | Splyce
+G2 Esports | Splyce
+G2 Esports | Splyce
+Fnatic | Vitality
+Fnatic | Vitality
+Vitality | Fnatic
+Fnatic | Vitality
+Vitality | Splyce
+Splyce | Vitality
+Vitality | Splyce
+Splyce | Vitality
+Fnatic | G2 Esports
+Fnatic | G2 Esports
+Fnatic | G2 Esports
